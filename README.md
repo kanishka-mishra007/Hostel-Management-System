@@ -21,9 +21,9 @@ MySQL	Database management
 JDBC	Connecting Java application with MySQL
 IntelliJ IDEA	Development environment
 MySQL Connector/J	Connecting Java with MySQL database
-<img width="1920" height="1140" alt="Screenshot 2026-11-14 120943" src="https://github.com/user-attachments/assets/36f38de6-14d5-4519-93bf-10f264eb2608" />
-<img width="1920" height="1140" alt="Screenshot 2026-11-14 185331" src="https://github.com/user-attachments/assets/0527672e-2842-48b6-9df5-ccb1c827c9b6" />
 <img width="1920" height="1140" alt="Screenshot 2026-11-14 185029" src="https://github.com/user-attachments/assets/75fe4df7-70f4-4613-9764-75aa198517e9" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-14 185331" src="https://github.com/user-attachments/assets/0527672e-2842-48b6-9df5-ccb1c827c9b6" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-14 120943" src="https://github.com/user-attachments/assets/36f38de6-14d5-4519-93bf-10f264eb2608" />
 <img width="1920" height="1140" alt="Screenshot 2026-11-14 190921" src="https://github.com/user-attachments/assets/e0902b84-6c04-4b59-bf4b-75ad6af79958" />
 <img width="1920" height="1140" alt="Screenshot 2026-11-14 190838" src="https://github.com/user-attachments/assets/ef3513eb-6e1c-4b0b-ac0c-ddddcc2547a0" />
 
